@@ -1,0 +1,9 @@
+streamlit
+numpy
+langchain
+langchain-community
+chromadb
+openai
+python-dotenv
+scikit-learn
+PyMuPDF 
